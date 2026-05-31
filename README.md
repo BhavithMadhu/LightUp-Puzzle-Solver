@@ -1,4 +1,18 @@
 <h1>💡 LumiNet – Machine Light Up (Akari) Game</h1>
+## 🤝 Project Attribution
+
+This project was originally developed as a team academic project.
+
+**Original Repository:**
+https://github.com/ysujith728/LightUp-puzzle-solver-daa
+
+### My Contributions
+
+* Assisted in algorithm design and problem-solving strategy
+* Contributed to game logic discussions and implementation planning
+* Participated in testing, debugging, and validation of puzzle-solving functionality
+
+This repository is maintained for portfolio and educational purposes with proper attribution to the original project team.
 
 <p>
 LumiNet is an intelligent JavaFX-based implementation of the classic 
